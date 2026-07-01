@@ -1,0 +1,16 @@
+Age,Gender,Department,Education,Salary,Experience,City,Performance,LeftCompany
+25,Male,IT,Bachelor,35000,2,Bangalore,Good,No
+30,Female,HR,Master,42000,5,Mysore,Excellent,No
+28,Male,Finance,Bachelor,38000,3,Bangalore,Average,Yes
+35,Female,IT,PhD,65000,10,Delhi,Excellent,No
+40,Male,Marketing,Master,55000,12,Mumbai,Good,No
+23,Female,HR,Bachelor,30000,1,Chennai,Average,Yes
+29,Male,Finance,Master,45000,4,Hyderabad,Good,No
+33,Female,IT,Master,60000,8,Pune,Excellent,No
+31,Male,Marketing,Bachelor,47000,6,Delhi,Good,Yes
+27,Female,Finance,Bachelor,39000,3,Chennai,Average,No
+26,Male,IT,Master,41000,3,Bangalore,Good,No
+38,Female,Marketing,PhD,72000,14,Mumbai,Excellent,No
+45,Male,HR,Master,68000,18,Delhi,Good,No
+24,Female,Finance,Bachelor,32000,1,Pune,Average,Yes
+36,Male,IT,Master,59000,9,Hyderabad,Excellent,No
